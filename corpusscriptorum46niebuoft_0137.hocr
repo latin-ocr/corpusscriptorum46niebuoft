@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum46niebuoft_0137.png"; bbox 0 0 1786 3204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 46 2081 177 2306">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 46 2081 177 2306">
+     <span class='ocr_line' id='line_1_1' title="bbox 46 2081 177 2306; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 46 2081 177 2306; x_wconf 66' lang='grc' dir='ltr'><strong>μ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 2020 1243 3204">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 2020 1243 3204">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2020 1243 3204; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 0 2020 1243 3204; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 1214 461 2320">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 1214 461 2320">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 1214 461 2320; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 0 1556 461 2320; x_wconf 46' lang='lat'>³931}</span> <span class='ocrx_word' id='word_1_4' title='bbox 47 1214 286 1609; x_wconf 66' lang='lat' dir='ltr'><strong><em>m</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 203 1216 668 2181">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 203 1216 668 2181">
+     <span class='ocr_line' id='line_1_4' title="bbox 203 1216 668 2181; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 406 2083 648 2181; x_wconf 54' lang='grc' dir='ltr'>βξ</span> <span class='ocrx_word' id='word_1_6' title='bbox 257 1555 668 2005; x_wconf 65' lang='grc' dir='ltr'>ζῑὲξέξ</span> <span class='ocrx_word' id='word_1_7' title='bbox 203 1216 631 1616; x_wconf 36' lang='grc' dir='ltr'>ἓῖῗ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1235 1865 1262 1902">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1235 1865 1262 1902">
+     <span class='ocr_line' id='line_1_5' title="bbox 1235 1865 1262 1902; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 1235 1865 1262 1902; x_wconf 58' lang='lat' dir='ltr'>t</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 1032 850 1542 2859">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 1032 850 1542 2859">
+     <span class='ocr_line' id='line_1_6' title="bbox 1032 850 1542 2859; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 1132 2384 1542 2859; x_wconf 47' lang='lat' dir='ltr'>tamn}</span> <span class='ocrx_word' id='word_1_10' title='bbox 1202 2089 1539 2427; x_wconf 48' lang='lat' dir='ltr'>{5³th</span> <span class='ocrx_word' id='word_1_11' title='bbox 1239 1719 1541 1961; x_wconf 52' lang='lat' dir='ltr'>{iffi</span> <span class='ocrx_word' id='word_1_12' title='bbox 1032 850 1542 1620; x_wconf 44' lang='lat' dir='ltr'>{ti}</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 45 0 1585 1413">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 45 0 1585 1413">
+     <span class='ocr_line' id='line_1_7' title="bbox 45 0 1585 1413; textangle 90"><span class='ocrx_word' id='word_1_13' title='bbox 45 0 1585 1413; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

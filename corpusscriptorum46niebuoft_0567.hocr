@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum46niebuoft_0567.png"; bbox 0 0 1768 3106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 40 1447 1528 2861">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 40 1999 1094 2861">
+     <span class='ocr_line' id='line_1_1' title="bbox 40 2096 322 2673; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 40 2430 322 2673; x_wconf 67' lang='lat'>”¹2²</span> <span class='ocrx_word' id='word_1_2' title='bbox 43 2292 114 2372; x_wconf 72' lang='lat'>¹³</span> <span class='ocrx_word' id='word_1_3' title='bbox 43 2096 210 2278; x_wconf 57' lang='grc' dir='ltr'>νει</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 42 1447 753 2851; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 42 1447 753 2851; x_wconf 33' lang='grc' dir='ltr'>Ξῖξιιὲἓιΐξῖῗξξῗὲ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 666 1642 1206 2861; textangle 90"><span class='ocrx_word' id='word_1_5' title='bbox 666 1642 1206 2861; x_wconf 35' lang='grc' dir='ltr'>ἑὲιεεεέιῆιὲ</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 904 1822 1528 2857">
+     <span class='ocr_line' id='line_1_4' title="bbox 904 1822 1436 2857; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 953 2476 1334 2857; x_wconf 74' lang='grc' dir='ltr'>ἐειιει</span> <span class='ocrx_word' id='word_1_7' title='bbox 1045 2090 1436 2572; x_wconf 57' lang='grc' dir='ltr'>ειῇἐέε</span> <span class='ocrx_word' id='word_1_8' title='bbox 904 1822 1367 2367; x_wconf 61' lang='grc' dir='ltr'>ἰε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1153 1994 1528 2857; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 1153 2280 1528 2857; x_wconf 59' lang='grc' dir='ltr'>ἰτῖἱίιιῖιηὶῖ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1296 1994 1524 2271; x_wconf 54' lang='lat' dir='ltr'>uf</span> <span class='ocrx_word' id='word_1_11' title='bbox 1235 1994 1524 2178; x_wconf 51' lang='grc' dir='ltr'>,Ηῖῑῖ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1768 3106 1768 3106">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1768 3106 1768 3106">
+     <span class='ocr_line' id='line_1_6' title="bbox 1768 3106 1768 3106; textangle 90"><span class='ocrx_word' id='word_1_12' title='bbox 1768 3106 1768 3106; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 39 1640 540 2135">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 39 1640 540 2099">
+     <span class='ocr_line' id='line_1_7' title="bbox 39 1640 540 1705; baseline 0.008 -5"><span class='ocrx_word' id='word_1_13' title='bbox 39 1640 261 1702; x_wconf 62' lang='lat' dir='ltr'>‘nd-nb</span> <span class='ocrx_word' id='word_1_14' title='bbox 287 1644 338 1690; x_wconf 72' lang='grc' dir='ltr'>δ·</span> <span class='ocrx_word' id='word_1_15' title='bbox 364 1645 540 1705; x_wconf 62' lang='grc' dir='ltr'>Χοκτν</span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 136 1775 450 1918; baseline 0 -41"><span class='ocrx_word' id='word_1_16' title='bbox 136 1775 450 1918; x_wconf 58' lang='lat' dir='ltr'>{gx-⁴·-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 41 1998 336 2135; baseline 0 -36"><span class='ocrx_word' id='word_1_17' title='bbox 41 1998 336 2135; x_wconf 73' lang='grc' dir='ltr'>ιι·-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

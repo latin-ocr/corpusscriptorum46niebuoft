@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusscriptorum46niebuoft_0459.png"; bbox 0 0 1768 3106; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 16 1525 1002">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 16 1525 1002">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 16 1525 1002; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 0 16 1525 1002; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 929 670 1550 2756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 929 670 1520 2756">
+     <span class='ocr_line' id='line_1_2' title="bbox 929 670 1499 2756; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 551 2186 1382 2756; x_wconf 47' lang='lat' dir='ltr'>{3322}ssss</span> <span class='ocrx_word' id='word_1_3' title='bbox 948 1993 1499 2177; x_wconf 53' lang='lat' dir='ltr'>‚12ss</span> <span class='ocrx_word' id='word_1_4' title='bbox 929 1562 1324 1852; x_wconf 51' lang='lat'>{21³</span> <span class='ocrx_word' id='word_1_5' title='bbox 980 670 1387 1459; x_wconf 43' lang='lat' dir='ltr'>fam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1148 737 1550 2756; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 1148 2567 1493 2756; x_wconf 52' lang='lat'>3133</span> <span class='ocrx_word' id='word_1_7' title='bbox 1229 2001 1499 2509; x_wconf 50' lang='grc' dir='ltr'>ἷῑῖεέῑὲἐὲι</span> <span class='ocrx_word' id='word_1_8' title='bbox 1297 1569 1506 1855; x_wconf 38' lang='grc' dir='ltr'>ἱῑᾷἓὲἒ</span> <span class='ocrx_word' id='word_1_9' title='bbox 1186 1010 1550 1468; x_wconf 51' lang='lat'>{3333}</span> <span class='ocrx_word' id='word_1_10' title='bbox 1258 737 1520 1056; x_wconf 69' lang='lat'>33</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
